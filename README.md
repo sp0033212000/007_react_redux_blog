@@ -1,7 +1,8 @@
-This App demonstrate how Redux work with api request.
+#This App demonstrate how Redux work with api request.
 
-The link is underneath.
-http://sp0033212000.github.io/007_react_redux_blog
+#The link is underneath.
+
+#http://sp0033212000.github.io/007_react_redux_blog
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
