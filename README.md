@@ -1,4 +1,4 @@
-# This App demonstrate how Redux work with api request.
+# This App demonstrates how Redux handle api request.
 
 # The link is underneath.
 
