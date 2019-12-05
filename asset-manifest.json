@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/007_react_redux_blog/static/js/main.9ac5f46f.chunk.js",
-    "main.js.map": "/007_react_redux_blog/static/js/main.9ac5f46f.chunk.js.map",
+    "main.js": "/007_react_redux_blog/static/js/main.02428784.chunk.js",
+    "main.js.map": "/007_react_redux_blog/static/js/main.02428784.chunk.js.map",
     "runtime-main.js": "/007_react_redux_blog/static/js/runtime-main.19ea8f7c.js",
     "runtime-main.js.map": "/007_react_redux_blog/static/js/runtime-main.19ea8f7c.js.map",
     "static/js/2.e2aec283.chunk.js": "/007_react_redux_blog/static/js/2.e2aec283.chunk.js",
     "static/js/2.e2aec283.chunk.js.map": "/007_react_redux_blog/static/js/2.e2aec283.chunk.js.map",
     "index.html": "/007_react_redux_blog/index.html",
-    "precache-manifest.1ae67811e05fe5dc436de3273a44a242.js": "/007_react_redux_blog/precache-manifest.1ae67811e05fe5dc436de3273a44a242.js",
+    "precache-manifest.86668b7f620fed2deacb8299506419f8.js": "/007_react_redux_blog/precache-manifest.86668b7f620fed2deacb8299506419f8.js",
     "service-worker.js": "/007_react_redux_blog/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.19ea8f7c.js",
     "static/js/2.e2aec283.chunk.js",
-    "static/js/main.9ac5f46f.chunk.js"
+    "static/js/main.02428784.chunk.js"
   ]
 }
